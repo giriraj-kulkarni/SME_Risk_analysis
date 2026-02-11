@@ -1,6 +1,6 @@
 ## Dashboard Preview
 
-![SME Risk Dashboard](Dashboard/example_dashboard.png)
+![SME Risk Dashboard](dashboard\example_dashboard.png)
 
 # SME Risk Assessment Project
 
